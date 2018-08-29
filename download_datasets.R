@@ -1,7 +1,3 @@
-#################################
-#       @author: Yi Cui
-#################################
-
 library(readr)
 
 ##---------------------directory to store the downloaded datasets---------------------

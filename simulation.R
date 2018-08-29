@@ -11,7 +11,7 @@ source('utilities')
 
 #---------------------simulate scRNAseq data---------------------
 set.seed(123456) # for reproducibility
-n <- 1000 # number of samples per group
+n <- 10000 # number of samples per group
 d <- 5000 # number of genes
 
 alpha <- 10*runif(d)

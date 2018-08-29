@@ -16,4 +16,4 @@ The R source codes here contains everything that is required to reproduce the re
 
 + Run **reproducibility.R**. This will reproduce Figure 6 in our paper.
 
-+ Run **normalization.R**. This will reproduce Figuree 7 and Supplementary Figure 4 in our paper. 
++ Run **normalization.R**. This will reproduce Figure 7 and Supplementary Figure 4 in our paper. 

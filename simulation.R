@@ -6,7 +6,7 @@ library(plotrix)
 library(Seurat)
 library(Matrix)
 library(scran)
-require(statmod)
+library(statmod)
 source('utilities')
 
 #---------------------simulate scRNAseq data---------------------

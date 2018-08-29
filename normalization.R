@@ -1,6 +1,6 @@
-source('utilities.R')
 library(isotone)
 library(ggplot2)
+source('utilities.R')
 
 read.functions <- c(read.GSE46980, read.GSE70580, read.GSE95601)
 titles = c('GSE46980', 'GSE70580', 'GSE95601')
